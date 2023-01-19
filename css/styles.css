@@ -1,0 +1,32 @@
+body {
+  background-color: blanchedalmond;
+}
+
+a:link {
+  color:pink;
+}
+
+a:visited {
+  color: orange;
+}
+
+a:hover {
+  color: black;
+}
+
+a:active {
+  color: blue;
+}
+
+  nav ul {
+	list-style-type: none;
+}
+nav ul li {
+	text-align: center;
+	display: inline;
+  margin-left: 5px;
+}
+
+nav ul li a {
+  text-decoration: none;
+}
